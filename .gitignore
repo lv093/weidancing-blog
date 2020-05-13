@@ -1,0 +1,17 @@
+*.DS_Store
+*.a
+bin/
+.idea/
+bin/logs/*
+dump.rdb
+.project
+*.tmp
+*___________*
+debug
+.vscode/launch.json
+esport-data
+logs
+conf/app.conf
+*.bak
+.docker/gitconfig
+
